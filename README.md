@@ -3,6 +3,6 @@ Ionic3 Angular 5 application
 
 To run this source:
 
-Clone this git
-Run 'npm install'
-Run 'ionic serve -l'
+* Clone this git
+* Run 'npm install'
+* Run 'ionic serve -l'
